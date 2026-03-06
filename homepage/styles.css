@@ -1,0 +1,47 @@
+#h {
+    text-align: center;
+    font-family: "Barlow Condensed", sans-serif;
+}
+
+#essaytext {
+    font-family: "Gilda Display", serif;
+    text-indent: 20px;
+}
+
+#navbar {
+    font-family: "Gilda Display", serif;
+    background-color: #d3ced6;
+}
+
+#indexbody {
+    text-align: center;
+    font-family: "Gilda Display", serif;
+}
+
+#homepicture {
+    width: 45%;
+
+}
+
+#firstpicture {
+    width: 100%;
+
+}
+
+#secondpicture {
+    width: 100%;
+}
+
+#text {
+    text-align: center;
+    font-family: "Gilda Display", serif;
+    font-size: large;
+}
+
+#thirdpicture {
+    width: 100%;
+}
+
+#fourthpicture {
+    width: 75%;
+}
